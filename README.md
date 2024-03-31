@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Rafaela Soares, sejam bem-vindes 
 
-- 🌱 Atualmente estudando back-end e fazendo um bootcamp pela Labenu
+- 🌱 Atualmente estudando front-end
 - 📫 Contate-me no e-mail: raffasoares95@gmail.com
 - 😄 Pronouns: ela/dela
 ##
